@@ -29,3 +29,7 @@ Nov 30, 2024 - IT21030680 - Add Dataset URL deepfake video detection
 Nov 30, 2024 - IT21074622 - Dataset Modification & Model training image manipulation
 
 Nov 30, 2024 - IT21270406 - Dataset modified english news 
+
+Dec 01, 2024 - IT21074622 - Model training results
+
+Dec 01, 2024 - IT21252754 - Colab note book and dataset upload
