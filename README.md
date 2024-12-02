@@ -33,3 +33,9 @@ Nov 30, 2024 - IT21270406 - Dataset modified english news
 Dec 01, 2024 - IT21074622 - Model training results
 
 Dec 01, 2024 - IT21252754 - Colab note book and dataset upload
+
+Dec 02, 2024 - IT21270406 - Model Training and fetch results
+
+Dec 02, 2024 - IT21074622 - Added testing code & results
+
+Dec 02, 2024 - IT21030680 - Model training code & results
