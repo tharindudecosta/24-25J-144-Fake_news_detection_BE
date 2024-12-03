@@ -39,3 +39,7 @@ Dec 02, 2024 - IT21270406 - Model Training and fetch results
 Dec 02, 2024 - IT21074622 - Added testing code & results
 
 Dec 02, 2024 - IT21030680 - Model training code & results
+
+Dec 03, 2024 - IT21270406 - Modified notebook
+
+Dec 03, 2024 - IT21030680 - Visualizer note book
