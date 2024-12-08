@@ -12,6 +12,13 @@ Identifying Sinhala Fake News and Political Biased in Sinhala News
 Jayasinghe H.D.D.R IT21270406 -
 Identify English Fake News with Voice Assistant
 
+# System Architecture
+
+IT21270406 - https://drive.google.com/file/d/1GbwXOwtNTAvMvQI3OZuTmmBVL05hmU0X/view
+IT21252754 - https://drive.google.com/file/d/158CuFhdU947F5E1jElU9EmABIjtKLHNC/view
+IT21030680 - https://drive.google.com/file/d/1PJCytiNnBRLP6JXc3VmMBRK9Y4qymhiD/view
+
+
 # Merge log
 
 Nov 26, 2024 - IT21030680 - Repo Initializing commit
@@ -43,3 +50,5 @@ Dec 02, 2024 - IT21030680 - Model training code & results
 Dec 03, 2024 - IT21270406 - Modified notebook
 
 Dec 03, 2024 - IT21030680 - Visualizer note book
+
+Dec 08, 2024 - IT21030680 - Trained model
