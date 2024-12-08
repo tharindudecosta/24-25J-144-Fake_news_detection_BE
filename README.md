@@ -51,4 +51,4 @@ Dec 03, 2024 - IT21270406 - Modified notebook
 
 Dec 03, 2024 - IT21030680 - Visualizer note book
 
-Dec 03, 2024 - IT21030680 - Trained model
+Dec 08, 2024 - IT21030680 - Trained model
