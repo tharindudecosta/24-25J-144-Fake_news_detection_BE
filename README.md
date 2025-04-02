@@ -52,3 +52,7 @@ Dec 03, 2024 - IT21270406 - Modified notebook
 Dec 03, 2024 - IT21030680 - Visualizer note book
 
 Dec 08, 2024 - IT21030680 - Trained model
+
+Mar 25, 2024 - IT21030680 - Lighting Colab notebook
+
+Mar 25, 2024 - IT21030680 - Lighting model
