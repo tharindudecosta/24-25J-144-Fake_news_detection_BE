@@ -1,10 +1,10 @@
-id,news_url,title
-politifact14984,http://www.nfib-sbet.org/,National Federation of Independent Business
-politifact12944,http://www.cq.com/doc/newsmakertranscripts-4942265?3,comments in Fayetteville NC
-politifact333,https://web.archive.org/web/20080204072132/http://www.rockymountainnews.com:80/news/2008/feb/02/romney-tells-denver-crowd-he-can-salvage-economy/,"Romney makes pitch, hoping to close deal : Elections : The Rocky Mountain News"
-politifact4358,https://web.archive.org/web/20110811143753/http://www.dems.gov/press/democratic-leaders-say-house-democrats-are-united-against-gop-default-act,Democratic Leaders Say House Democrats Are United Against GOP Default Act
-politifact779,https://web.archive.org/web/20070820164107/http://www.whitehouse.gov/omb/budget/fy2008/outlook.html,"Budget of the United States Government, FY 2008"
-politifact14064,http://www.politifact.com/truth-o-meter/statements/2016/jan/21/donald-trump/donald-trump-exaggerates-when-he-says-china-has-to/,Donald Trump exaggerates when he says China has 'total control' over North Korea
-politifact14474,https://www.law.cornell.edu/constitution/amendmentxxv,25th Amendment
-politifact5276,http://americaneedsmitt.com/blog/2011/11/10/mit-romney-stage/,子供たちのコト。私のコト。
-politifact1313,https://web.archive.org/web/20090913221204/http://www.whitehouse.gov:80/the_press_office/Briefing-by-White-House-Press-Secretary-Robert-Gibbs-9/10/09,"Briefing by White House Press Secretary Robert Gibbs, 9/10/09"
+id,title
+politifact14984,National Federation of Independent Business
+politifact12944,comments in Fayetteville NC
+politifact333,"Romney makes pitch, hoping to close deal : Elections : The Rocky Mountain News"
+politifact4358,Democratic Leaders Say House Democrats Are United Against GOP Default Act
+politifact779,"Budget of the United States Government, FY 2008"
+politifact14064,Donald Trump exaggerates when he says China has 'total control' over North Korea
+politifact14474,25th Amendment
+politifact5276,子供たちのコト。私のコト。
+politifact1313,"Briefing by White House Press Secretary Robert Gibbs, 9/10/09"
